@@ -1,7 +1,7 @@
 import 'package:climate_flutter/services/networking.dart';
 import 'package:climate_flutter/services/location.dart';
 
-const openWeatherApi = 'b812bc7c60ba86b62bf35e3ab826bcd6';
+const openWeatherApi = 'Api key';
 const openWeatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
